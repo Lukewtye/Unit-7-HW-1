@@ -1,0 +1,4 @@
+In Python you can print statements
+In Python you can use for loops
+In Python you can use try/excepts
+In Python you can do lots of things
